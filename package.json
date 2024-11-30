@@ -1,0 +1,20 @@
+{
+  "name": "hw-1-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "uuid": "^11.0.3",
+    "yargs": "^17.7.2"
+  }
+}
